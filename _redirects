@@ -1,5 +1,6 @@
 # Redirige desde Netlify subdominio al dominio principal
-https://myveneciapp.netlify.app/* https://www.myveneciapp.com/:splat 301!
+# https://myveneciapp.netlify.app/* https://www.myveneciapp.com/:splat 301!
 
 # Redirige sin www al dominio con www
-https://myveneciapp.com/* https://www.myveneciapp.com/:splat 301!
+# https://myveneciapp.com/* https://www.myveneciapp.com/:splat 301!
+/* /index.html 200
