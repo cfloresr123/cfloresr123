@@ -1,1 +1,9 @@
+# Redirige desde Netlify subdominio al dominio principal
+https://myveneciapp.netlify.app/* https://www.myveneciapp.com/:splat 301!
+
+# Redirige sin www al dominio con www
+https://myveneciapp.com/* https://www.myveneciapp.com/:splat 301!
+
+# Asegura que todo se redirija al dominio principal con HTTPS y www
 /* https://www.myveneciapp.com/:splat 301!
+
