@@ -1,0 +1,53 @@
+body {
+	MARGIN: 0px;
+	/*FONT-FAMILY: Arial, Helvetica, sans-serif;*/
+	FONT-FAMILY: "Microsoft Sans Serif",Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 14px;
+	COLOR: #182F34;
+	POSITION: relative;
+
+}
+
+#conteniendo
+{
+width:752px;
+background: #FCF7F1;
+
+}
+#content {
+	width:717px;
+	height:135px;
+	float:left;
+	padding:15px 16px 12px 16px;
+
+}
+
+h2{FONT-SIZE: 14px;
+color: #422706;
+
+}
+h1 {font-size: 130%}
+
+.form{
+border:#e0e6e9 1px solid;
+padding: 8px;
+color:#666666;
+font-size:11px;
+	}
+.inputb{
+  color: #b9b9b4;
+  border: 1px solid #858b8b;
+  background-color: #e0e6e9;
+  width:100%;
+
+}
+
+.btn{
+  color: #ffffff;
+  font-size:11px;
+  padding: 2px;
+  border: 1px solid #117a27;
+  background-color: #91b476;
+float: right;
+
+}
